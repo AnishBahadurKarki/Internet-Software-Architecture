@@ -80,4 +80,5 @@ document.querySelectorAll("button").forEach(button => {
   } else if (button.id === "equalsButton") {
     button.addEventListener("click", equalsClick);
   }
-});
+}
+);
